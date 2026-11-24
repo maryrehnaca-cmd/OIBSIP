@@ -46,4 +46,4 @@ Online Retail II dataset (December 2009 – December 2011).
 5. Run the notebook using Google Colab or Jupyter Notebook.
 
 ## Author
-Your Full Name
+MARY REHNA C A
